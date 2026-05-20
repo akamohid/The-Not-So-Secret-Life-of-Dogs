@@ -24,7 +24,7 @@
 - [Repo Structure](#-repo-structure)
 - [Getting Started](#-getting-started)
 - [Results](#-results)
-- [Team](#-team)
+- [Team](#-team-members)
 
 ---
 
