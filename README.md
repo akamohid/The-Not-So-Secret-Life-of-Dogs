@@ -138,17 +138,11 @@ Removing random rotation slightly improved accuracy, suggesting mild overfitting
 
 ---
 
-## 👥 Team
+## 👥 Team Members
 
-**National University of Sciences and Technology (NUST)**
-School of Electrical Engineering and Computer Science
-CS-474 — Computer Vision | Instructor: Dr. Nazia Perwaiz | BSDS 2k23
-
-| Name | Student ID |
-|---|---|
-| Mohid Arshad | 455977 |
-| Tahir Mehmood | 458593 |
-| Mohammad Hasnain | 462247 |
+- **Mohid Arshad** — [GitHub](https://github.com/akamohid) | [LinkedIn](https://www.linkedin.com/in/akamohid/)  
+- **Mohammad Hasnain** — [LinkedIn](https://www.linkedin.com/in/mohammad-hasnain-3670452a7/)  
+- **Tahir Mehmood** — [LinkedIn](https://www.linkedin.com/in/tahir-mehmood-622a412a0/)
 
 ---
 
